@@ -71,7 +71,7 @@ const App = () => {
 
   return (
     <div className="container">
-      <h2 className="title">💬Gemini MiniChat</h2>
+      <h2 className="title">💬Твой чат психолог</h2>
       <div className="chatWindow" ref={chatWindowRef}>
       {messages.map((msg, idx) => (
   <div key={idx} className={`message ${msg.role}`}>

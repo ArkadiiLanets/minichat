@@ -34,6 +34,9 @@ h1 {
   font-size: 3.2em;
   line-height: 1.1;
 }
+h2 {
+  color: #ffffff;
+}
 
 button {
   border-radius: 8px;
